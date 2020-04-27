@@ -13,10 +13,27 @@ And i would like to thank Mr.Vimal Daga Sir and Preeti Mam for such an great ini
  - before runnning any docker container you may need to off firewall and SELinux security 
    for firewall systemctl stop firewalld
    for SELinux  setenforce 0
+For running this project u can follow steps shown in my Docker_Project.docx file with screenshot
+or u can u can just do dew things i.e. 
+install owncloud image
+docker pull ownlcloud:latest
+install mysql image
+setup mysql as shown in Docker_Project.docx file
+install docker-compose and inside any dir create ur docker-compose.yml
+and paste the code of my docker-compose.yml
+Then , run the cmd docker-compose up -d inside the directory
+and then run docker ps  and see the IP of owncloud container running their by docker insoect
+(id of owncloud contaner) | grep IP & that;s all guy's put this IP in firefox their will be 
+owncloud home page in front of you where u can upload your data and enjoy.
 
 used things in this project :
 :- docker contaniner
+
 :- owncloud:latest image
+
 :- mysql database
+
 :- rhel 8
+
 :- yml file
+
