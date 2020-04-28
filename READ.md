@@ -5,7 +5,8 @@ Introduction :
 Docker project on laucnching owncloud in our system by using docker container over rhel 8 
 and u can put your gb's of data here which will be safe and easy for us and i have created 
 this project only because of iiec_rise campaign 1.0 under the great mentor and the world 
-record holder Mr.Vimal Daga https://www.linkedin.com/in/vimaldaga/ 
+record holder Mr.Vimal Daga https://www.linkedin.com/in/vimaldaga/ and i can not explain 
+about sir in words.
 
 And i would like to thank Mr.Vimal Daga Sir and Preeti Mam for such an great initiative iiec_rise
 
